@@ -16,6 +16,6 @@ And set cron job for running this script every 5 minutes:
 
 and write following content:
 
-/5 * * * * /root/netstatistic.sh
+*/5 * * * * /root/netstatistic.sh
 
 if you have some other script path - set your own above.
