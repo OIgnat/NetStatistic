@@ -1,6 +1,7 @@
 # NetStatistic
 
 #cd ~
+
 #nano netstatistic.sh
 
 Insert netstatistics.sh content (!!! please ensure that you have set appropriate network adapter to ‘adapter’ parameter and appropriate key. Also, make sure that ifconfig is located at /usr/sbin/ifconfig . I assume that it should be there (Ubuntu 20.04), but better to re-check by running ‘whereis ifconfig’)
